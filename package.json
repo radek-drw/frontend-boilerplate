@@ -8,6 +8,10 @@
     "start": "webpack-dev-server",
     "build": "webpack"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radek-drw/frontend-boilerplate"
+  },
   "keywords": [
     "webpack",
     "boilerplate",
