@@ -2,7 +2,8 @@
 
 Boilerplate for own front-end projects
 
-When boiler downloaded some of the package.json dependencies probably need to be upgraded to the latest versions, to do it follow the steps below:
+When boiler downloaded some of the package.json dependencies probably need to be upgraded to the latest versions.
+To do it follow the steps below:
 
 1. Installation
 
@@ -19,6 +20,8 @@ When boiler downloaded some of the package.json dependencies probably need to be
 
    b) Upgrade a project's package file:
    $ ncu -u
+
+   -  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 3. Run npm install to install new versions:
 
