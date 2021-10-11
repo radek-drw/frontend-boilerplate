@@ -9,7 +9,7 @@ To do it follow the steps below:
 
    a) Install globally:
 
-   ### $ npm install -g npm-check-updates
+   ##### $ npm install -g npm-check-updates
 
    b) Or you can run with npx:
 
