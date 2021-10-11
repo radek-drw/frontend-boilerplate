@@ -8,22 +8,25 @@ To do it follow the steps below:
 1. Installation
 
    a) Install globally:
-   $ npm install -g npm-check-updates
+
+   ## $ npm install -g npm-check-updates
 
    b) Or you can run with npx:
-   $ npx npm-check-updates
+
+   ## $ npx npm-check-updates
 
 2. Usage
 
    a) Show any new dependencies for the project in the current directory:
-   $ ncu
+
+   ## $ ncu
 
    b) Upgrade a project's package file:
-   $ ncu -u
 
-   -  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `$ ncu -u`
+   ## $ ncu -u
 
 3. Run npm install to install new versions:
 
    a) Update installed (or install latest versions) packages and package-lock.json
-   $ npm install
+
+   ## $ npm install
